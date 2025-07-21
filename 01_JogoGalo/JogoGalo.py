@@ -1,5 +1,6 @@
 def menu():
-    continuar=1
+    continuar=1 # primeira alteração
+    #Segunda alteração
     while continuar:
         continuar = int(input("0. Sair \n"+
                               "1. Jogar novamente\n"))

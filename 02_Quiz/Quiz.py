@@ -5,7 +5,7 @@ def give_options(x,y,z):
     
 print("Hello! Welcome to my Quiz" "\n" "All Questions carries 10 marks each")
 ans = input("Are you ready to answer (yes/no): ")
-a ="Note: wrtie answers! do not write option."
+a ="Note: write answers! do not write option."
 score = 0
 total_questions = 4
 
